@@ -46,6 +46,7 @@ public class LiczbyOdUzytkownika {
         for (int liczba : tablica) {
             if (liczba < n) {
                 n = liczba;
+
             }
         }
             for (int i = n; i <= m; i++) {
